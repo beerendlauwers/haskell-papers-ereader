@@ -1,5 +1,7 @@
 # haskell-papers-ereader
 
+#### Note: Some of the single-column papers are in landscape mode. These are prefixed with `[LS]`.
+
 I use [k2pdfopt](http://www.willus.com/k2pdfopt/) to turn the typical 2-column papers in PDF format into a PDF suitable for an e-reader.  It seems to handle figures well, too, so I'm happy with it.
 
 I've also taken some of the single-column papers with *huge* margins and ran them through the tool to make the font bigger on an e-reader.
