@@ -1,6 +1,8 @@
 # haskell-papers-ereader
 
-#### Note: Some of the single-column papers are in landscape mode. These are prefixed with `[LS]`.
+#### Note 1: Some of the single-column papers are in landscape mode. These are prefixed with `[LS]`.
+
+#### Note 2: If the paper isn't here, look in [ocharles' git-annex repository](https://github.com/ocharles/papers/blob/master/README.md).
 
 I use [k2pdfopt](http://www.willus.com/k2pdfopt/) to turn the typical 2-column papers in PDF format into a PDF suitable for an e-reader.  It seems to handle figures well, too, so I'm happy with it.
 
